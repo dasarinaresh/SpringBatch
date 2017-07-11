@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBatch
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jeff
+Implementation-Vendor-Id: org.naresh.spring
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBatch/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
